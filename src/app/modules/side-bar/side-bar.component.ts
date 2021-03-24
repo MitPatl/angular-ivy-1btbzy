@@ -4,7 +4,7 @@ import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-side-bar',
-  templateUrl: '/side-bar.component.html',
+  templateUrl: './SideBarComponent.html',
   styleUrls: ['./side-bar.component.scss']
 })
 export class SideBarComponent implements OnInit {
